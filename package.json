@@ -1,5 +1,5 @@
 {
-  "name": "paypal-v6-render-demo",
+  "name": "paypal-v6-render-server-demo",
   "private": true,
   "version": "1.0.0",
   "type": "module",
